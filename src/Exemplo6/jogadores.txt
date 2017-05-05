@@ -1,0 +1,10 @@
+Anselmo,Atacante,35,Fortaleza,23
+Robinho,Atacante,32,Atlético Mineiro,23
+Bruno Rangel,Atacante,34,Chapecoense,22
+Gabriel Jesus,Atacante,19,Palmeiras,22
+Kleber Gladiador,Atacante,33,Coritiba,21
+Rodrigão,Atacante,22,Campinense e Santos,21
+Nenê,Meia,35,Vasco,20
+Roger,Atacante,31,Red Bull Brasil e Ponte Preta,20
+Fred,Atacante,32,Fluminense e Atlético Mineiro,19
+Hernane Brocador,Atacante,30,Bahia,19
